@@ -55,13 +55,13 @@ function App() {
   const renderMaleContainer = () => {
     return (
       <div className="App">
-        <p>Congratulations you are a {biologicalSex}</p>
+        <p>Yay you are a {biologicalSex}</p>
       </div>);    
     }
   const renderFemaleContainer = () => {
      return (
        <div className="App">
-          <p>Congratulations you are a {biologicalSex}</p>
+          <p>Yay you are a {biologicalSex}</p>
         </div>);    
       }
 
